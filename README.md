@@ -47,8 +47,8 @@ A **nota A2** é composta por três atividades (**AT1 + AT2 + AT3**). Há ainda 
 |:---------:|---------|:------------:|:------:|
 | **AT1** | Em grupo — BlackBoard | 30/03 a 02/04 | 1,0 |
 | **AT2** | Em grupo — BlackBoard | 13/04 a 15/04 | 2,0 |
-| **Aula Online** | Microsoft Teams | 20/04 | — |
-| **AT3** | Individual e sem consulta — em sala | 04/05 | 2,0 |
+| **AT3** | Prova escrita e em grupo — em sala | 04/05 | 2,0 |
+| **A2** | **AT1 + AT2 + AT3** | 11/05 | — |
 | **A1** | Avaliação Regimental | 01/06 | — |
 | **AF** | Avaliação Final | 15/06 | — |
 
