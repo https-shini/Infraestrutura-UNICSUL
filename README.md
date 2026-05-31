@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-sobre-a-disciplina">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-objetivos-de-aprendizagem">Objetivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-avaliações-e-prazos-2026">Avaliações e Datas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-avaliações-e-estrutura-de-notas-2026">Avaliações e Notas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-atividades-avaliativas">Atividades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-conteúdo-programático">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-aulas">Aulas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -39,18 +39,33 @@ O objetivo é capacitar o aluno a organizar, implementar e sistematizar a infrae
 
 ---
 
-## 📅 Avaliações e Prazos (2026)
+## 📅 Avaliações e Estrutura de Notas (2026)
 
-A **nota A2** é composta por três atividades (**AT1 + AT2 + AT3**). Há ainda a **Avaliação Regimental (A1)** e a **Avaliação Final (AF)**.
+A média semestral é composta por duas notas regimentais: **A1** e **A2**.
 
-| Avaliação | Formato | Data / Prazo | Pontos |
-|:---------:|---------|:------------:|:------:|
-| **AT1** | Em grupo — BlackBoard | 30/03 a 02/04 | 1,0 |
-| **AT2** | Em grupo — BlackBoard | 13/04 a 15/04 | 2,0 |
-| **AT3** | Prova escrita e em grupo — em sala | 04/05 | 2,0 |
-| **A2** | **AT1 + AT2 + AT3** | 11/05 | — |
-| **A1** | Avaliação Regimental | 01/06 | — |
-| **AF** | Avaliação Final | 15/06 | — |
+- **A1 — Avaliação Regimental:** prova aplicada ao fim do semestre.
+- **A2:** composta pelas **Atividades** (AT1 + AT2) e por uma **Avaliação** aplicada pelo professor. Neste caso, uma prova em grupo com **10 questões** (5 dissertativas e 5 de múltipla escolha).
+- **Média final:** calculada a partir de A1 e A2.
+- **AF — Avaliação Final:** aplicada caso o aluno não atinja a média necessária para aprovação.
+
+### Composição da nota (conforme portal acadêmico)
+
+| Componente | Descrição |
+|------------|-----------|
+| **Regimental (A1)** | Avaliação regimental do semestre |
+| **Atividades** | Soma das atividades em grupo (AT1 + AT2) |
+| **Avaliação** | Prova em grupo aplicada pelo professor — Compõe a nota da A2 |
+| **Média final** | Combinação de A1 e A2 |
+
+### Cronograma (2026)
+
+| Etapa | Formato | Data / Prazo | Pontos |
+|:-----:|---------|:------------:|:------:|
+| **Atividade01** | Em grupo — BlackBoard | 30/03 a 02/04 | 1,0 |
+| **Atividade02** | Em grupo — BlackBoard | 13/04 a 15/04 | 2,0 |
+| **Avaliação** | Prova escrita em grupo — em sala | 04/05 | 2,0 |
+| **ProvaA1** | Avaliação Regimental | 01/06 | — |
+| **ProvaAF** | Avaliação Final | 15/06 | — |
 
 > ⚠️ As atividades em grupo devem ser entregues **apenas no BlackBoard** e **somente pelo líder** do grupo. O documento Word não deve ser compactado nem convertido.
 
