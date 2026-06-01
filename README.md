@@ -35,6 +35,16 @@ O objetivo é capacitar o aluno a organizar, implementar e sistematizar a infrae
 
 ---
 
+## 🎯 Objetivos de aprendizagem
+
+- **Conhecimentos:** adquirir conhecimentos básicos e intermediários sobre infraestrutura de redes; reconhecer métodos e melhores práticas na aplicação em infraestrutura e serviços em TI; fundamentar conhecimentos que permitam aprofundamento em infraestrutura da tecnologia da informação.
+
+- **Habilidades:** organizar e implementar infraestrutura em redes de computadores em uma organização; sistematizar a infraestrutura de TI; participar ativamente do processo de tomada de decisão e escolha de tecnologia; analisar objetivos e metas relacionadas às expectativas do uso da infraestrutura de TI.
+
+- **Atitudes:** envolver-se com assuntos e tecnologias de infraestrutura de TI; interessar-se pela constante evolução técnica e metodológica de boas práticas em infraestrutura de TI.
+
+---
+
 ## 🔗 Links e Recursos Complementares
 
 ### 🧠 Quiz de Estudo (Preparação para Prova)
@@ -50,16 +60,6 @@ Ferramenta interativa para revisão dos principais conteúdos da disciplina:
 Base de conhecimento centralizada com todos os arquivos do repositório organizados e processados:
 
 * [https://notebooklm.google.com/notebook/4760c4e5-3b71-4352-821d-6b813de9d037](https://notebooklm.google.com/notebook/4760c4e5-3b71-4352-821d-6b813de9d037)
-
----
-
-## 🎯 Objetivos de aprendizagem
-
-- **Conhecimentos:** adquirir conhecimentos básicos e intermediários sobre infraestrutura de redes; reconhecer métodos e melhores práticas na aplicação em infraestrutura e serviços em TI; fundamentar conhecimentos que permitam aprofundamento em infraestrutura da tecnologia da informação.
-
-- **Habilidades:** organizar e implementar infraestrutura em redes de computadores em uma organização; sistematizar a infraestrutura de TI; participar ativamente do processo de tomada de decisão e escolha de tecnologia; analisar objetivos e metas relacionadas às expectativas do uso da infraestrutura de TI.
-
-- **Atitudes:** envolver-se com assuntos e tecnologias de infraestrutura de TI; interessar-se pela constante evolução técnica e metodológica de boas práticas em infraestrutura de TI.
 
 ---
 
