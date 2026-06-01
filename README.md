@@ -195,7 +195,7 @@ O conceito surgiu em **1960**, com John McCarthy afirmando que a computação po
 | **IaaS** | Recursos básicos — servidores, redes, armazenamento e data center virtual — para administradores de TI. |
 | **CaaS** | Código empacotado com bibliotecas e dependências em **contêineres**, executado via API ou portal web. |
 
-### 📝 Cloud Computing I — Tipos, Regiões, Segurança e Data Centers
+### 📝 Cloud Computing II — Tipos, Regiões, Segurança e Data Centers
 
 **Vantagens práticas:** agilidade, elasticidade, custos menores (despesas variáveis no lugar de fixas) e implantação global em segundos com menor latência.
 
