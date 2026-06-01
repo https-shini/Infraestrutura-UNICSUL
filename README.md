@@ -9,6 +9,7 @@
   <a href="#-objetivos-de-aprendizagem">Objetivos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-avaliações-e-estrutura-de-notas">Avaliações</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-atividades">Atividades</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-prova-a2--avaliação-escrita-em-grupo">Prova A2</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-conteúdo-programático">Conteúdo</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-aulas">Aulas</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-computação-em-nuvem">Nuvem</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -123,6 +124,29 @@ Conjunto de **8 questões dissertativas**, com exigência de **mínimo de 10 lin
 - **Computação em nuvem:** modelos IaaS, PaaS e SaaS, e arquitetura de nuvem híbrida
 
 📄 [Questões](Conteudo/Atividades/Atividade_02/Questoes.md) · [Respostas](Conteudo/Atividades/Atividade_02/Respostas.md) · [DOCX](Conteudo/Atividades/Atividade_02/Infraestrutura_Atividade02.docx) · [PDF](Conteudo/Atividades/Atividade_02/Infraestrutura_Atividade02.pdf)
+
+---
+
+## 🧪 Prova A2 — Avaliação Escrita em Grupo
+
+Avaliação **escrita e em grupo** (até 4 alunos), aplicada em sala no dia **04/05/2026**, sem consulta a material. Compõe a nota **A2** e vale **2,0 pontos**, distribuídos em **8 questões** (cada uma valendo 0,25): **4 de múltipla escolha** e **4 dissertativas**. A prova consolida os principais eixos da disciplina — armazenamento, redes, virtualização e computação em nuvem.
+
+### Conteúdo cobrado
+
+| Bloco | Questões | Tópicos abordados |
+|:-----:|:--------:|-------------------|
+| **Múltipla escolha** | 1 a 4 | Redes de armazenamento (**SAN**) e classificação de redes (**PAN/LAN/WLAN**); **SGBD/SQL**; **Memória Virtual**; níveis de **RAID** (0, 1, 5 e 6 — *striping*, *mirroring* e paridade); **Virtualização** (vantagens, isolamento e desastres); **Cloud Computing** (**Regiões e Zonas** de disponibilidade, ataques **DoS** e **DDoS**). |
+| **Dissertativas** | 5 a 8 | **RAID 10** (modelo híbrido e desvantagem de custo); modelos de serviço **IaaS, PaaS e SaaS**; **Arquitetura de Nuvem Híbrida**; tipos de nuvem — **Public Cloud** e **Private Cloud**. |
+
+### Destaques da resolução comentada
+
+- **RAID:** reforço dos conceitos de *striping* × *mirroring* e da tolerância a falhas (RAID 5 → 1 disco; RAID 6 → 2 discos, com escrita mais lenta por dupla paridade).
+- **Redes:** distinção entre **SAN** (rede dedicada e separada da LAN) e a correta classificação do Wi-Fi doméstico como **WLAN**, não PAN.
+- **Memória Virtual:** extensão da **RAM no disco** (swap), e não o inverso.
+- **Nuvem:** diferenciação precisa entre **Região** e **Zona de Disponibilidade**, e entre os ataques **DoS** (origem única) e **DDoS** (distribuído).
+- **Modelos de nuvem:** ênfase na **orquestração/integração** como elemento central da nuvem híbrida e no **uso exclusivo** como critério definidor da nuvem privada.
+
+📄 [Questões](Conteudo/ProvaA2/Questoes.md) · [Resolução Comentada](Conteudo/ProvaA2/Respostas.md)
 
 ---
 
