@@ -82,7 +82,7 @@ Conjunto de **20 questões objetivas curtas**, com respostas concisas e tecnicam
 - **Virtualização:** conceito, histórico e benefícios
 - **RAID:** níveis 0, 1, 5, 6 e 10 (striping, mirroring e paridade)
 
-👉 [Questões](Conteudo/Atividade01/Atividade01_Questoes.md) · [Respostas](Conteudo/Atividade01/Atividade01_Respostas.md)
+👉 [Questões](Conteudo/Atividades/Atividade_01/Questoes.md) · [Respostas](Conteudo/Atividades/Atividade_01/Respostas.md)
 
 ---
 
@@ -98,7 +98,7 @@ Conjunto de **8 questões dissertativas**, com exigência de **mínimo de 10 lin
 - **Mainframes** e sua permanência nos grandes bancos
 - **Computação em nuvem:** modelos IaaS, PaaS e SaaS, e arquitetura de nuvem híbrida
 
-👉 [Questões](Conteudo/Atividade02/Atividade02_Questoes.md) · [Respostas](Conteudo/Atividade02/Atividade02_Respostas.md)
+👉 [Questões](Conteudo/Atividades/Atividade_02/Questoes.md) · [Respostas](Conteudo/Atividades/Atividade_02/Respostas.md)
 
 ---
 
@@ -124,7 +124,7 @@ Apresentação do plano de ensino e introdução ao **Data Center** — origem c
 
 > **Objetivo central do Data Center:** garantir a disponibilidade de equipamentos que rodam sistemas cruciais para a organização.
 
-👉 [Acessar o conteúdo completo da Aula 01.](Conteudo/Aula01/Aula01.md)
+👉 [Acessar o conteúdo completo da Aula 01.](Conteudo/Aulas/Aula_01/Aula01.md)
 
 ---
 
@@ -132,7 +132,7 @@ Apresentação do plano de ensino e introdução ao **Data Center** — origem c
 
 Aprofundamento em Data Centers, com foco na **infraestrutura física** (segurança física, prevenção a incêndios, energia e refrigeração). Apresentação detalhada da **Three-tier Architecture** (camadas Core, Distribution e Access), do padrão **TIER** do Uptime Institute e da norma **TIA-942**.
 
-👉 [Acessar o conteúdo completo da Aula 02.](Conteudo/Aula02/Aula02.md)
+👉 [Acessar o conteúdo completo da Aula 02.](Conteudo/Aulas/Aula_02/Aula02.md)
 
 ---
 
