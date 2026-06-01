@@ -178,7 +178,7 @@ O termo "nuvem" deriva da telefonia, onde representava conexões de responsabili
 - **Produtividade, desempenho e confiabilidade:** remove tarefas demoradas de TI, roda em datacenters globais atualizados e reduz custos de backup e recuperação de desastres.
 - **Visão corporativa:** evolução da terceirização de TI, economia de espaço e energia (sustentabilidade) e adoção do modelo **BYOD** (*Bring Your Own Device*). O maior risco é a indisponibilidade por falha de internet.
 
-#### Cloud Computing I — Conceitos e Serviços
+### 📝 Cloud Computing I — Conceitos e Serviços
 
 O conceito surgiu em **1960**, com John McCarthy afirmando que a computação poderia um dia ser tratada como utilidade pública. O termo "Cloud Computing" ganhou fama mundial no fim de **2006**, citado por Eric Schmidt (Google), seguido do anúncio do **Elastic Compute Cloud (EC2)** da Amazon.
 
@@ -195,7 +195,7 @@ O conceito surgiu em **1960**, com John McCarthy afirmando que a computação po
 | **IaaS** | Recursos básicos — servidores, redes, armazenamento e data center virtual — para administradores de TI. |
 | **CaaS** | Código empacotado com bibliotecas e dependências em **contêineres**, executado via API ou portal web. |
 
-#### Cloud Computing II — Tipos, Regiões, Segurança e Data Centers
+### 📝 Cloud Computing I — Tipos, Regiões, Segurança e Data Centers
 
 **Vantagens práticas:** agilidade, elasticidade, custos menores (despesas variáveis no lugar de fixas) e implantação global em segundos com menor latência.
 
