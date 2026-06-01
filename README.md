@@ -76,19 +76,19 @@ A média semestral é composta por duas notas regimentais: **A1** e **A2**.
 
 | Componente | Descrição |
 |------------|-----------|
-| **Regimental (A1)** | Avaliação regimental do semestre |
-| **Atividades** | Soma das atividades em grupo (AT1 + AT2 + AT3) |
-| **Avaliação** | Prova em grupo aplicada pelo professor — 10 questões (5 dissertativas + 5 de múltipla escolha), compõe a A2 |
+| **Regimental (Prova A1)** | Avaliação regimental do semestre |
+| **Atividades** | Soma das atividades em grupo (AT1 + AT2) |
+| **Avaliação (Prova A2)** | Prova em grupo aplicada pelo professor — 10 questões (5 dissertativas + 5 de múltipla escolha), compõe a A2 |
 | **Média final** | Combinação de A1 e A2 |
 
 ### Cronograma (2026)
 
 | Etapa | Formato | Data / Prazo | Pontos |
 |:-----:|---------|:------------:|:------:|
-| **AT1** | Em grupo — BlackBoard | 30/03 a 02/04 | 1,0 |
-| **AT2** | Em grupo — BlackBoard | 13/04 a 15/04 | 2,0 |
-| **AT3** | Prova escrita em grupo — em sala | 04/05 | 2,0 |
-| **A1** | Avaliação Regimental | 01/06 | — |
+| **Atividade 01** | Questões em grupo — BlackBoard | 30/03 a 02/04 | 1,0 |
+| **Atividade 02** | Questões em grupo — BlackBoard | 13/04 a 15/04 | 2,0 |
+| **Prova A2** | Prova escrita em grupo | 04/05 | 2,0 |
+| **Prova A1** | Avaliação Regimental | 01/06 | — |
 | **AF** | Avaliação Final | 15/06 | — |
 
 > ⚠️ As atividades em grupo devem ser entregues **apenas no BlackBoard** e **somente pelo líder** do grupo. O documento Word não deve ser compactado nem convertido.
