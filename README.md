@@ -78,7 +78,7 @@ A média semestral é composta por duas notas regimentais: **A1** e **A2**.
 |------------|-----------|
 | **Regimental (Prova A1)** | Avaliação regimental do semestre |
 | **Atividades** | Soma das atividades em grupo (AT1 + AT2) |
-| **Avaliação (Prova A2)** | Prova em grupo aplicada pelo professor — 10 questões (5 dissertativas + 5 de múltipla escolha), compõe a A2 |
+| **Avaliação (Prova A2)** | Prova em grupo aplicada pelo professor — 08 questões (04 dissertativas + 04 de múltipla escolha), compõe a A2 |
 | **Média final** | Combinação de A1 e A2 |
 
 ### Cronograma (2026)
